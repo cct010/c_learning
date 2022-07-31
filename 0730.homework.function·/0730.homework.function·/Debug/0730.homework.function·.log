@@ -1,0 +1,15 @@
+﻿  function.c
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(14,10): warning C4098: “Mult_table”:“void”函数返回值
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(16,16): warning C4028: 形参 1 与声明不同
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(16,24): warning C4028: 形参 2 与声明不同
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(20,8): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(22,8): warning C4047: “=”:“int”与“int *”的间接级别不同
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(34,12): warning C4101: “m”: 未引用的局部变量
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(34,9): warning C4101: “j”: 未引用的局部变量
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(45,6): warning C4101: “a”: 未引用的局部变量
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(46,6): warning C4101: “a1”: 未引用的局部变量
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(47,6): warning C4101: “y”: 未引用的局部变量
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(48,9): warning C4101: “j”: 未引用的局部变量
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(47,8): warning C4101: “ret”: 未引用的局部变量
+E:\vs-project\0730.homework.function·\0730.homework.function·\function.c(46,10): warning C4101: “b1”: 未引用的局部变量
+  0730.homework.function·.vcxproj -> E:\vs-project\0730.homework.function·\Debug\0730.homework.function·.exe
