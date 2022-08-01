@@ -1,0 +1,7 @@
+﻿  recurrence.c
+E:\vs-project\0801.homework.recurrence\0801.homework.recurrence\recurrence.c(73,11): warning C4101: “s2”: 未引用的局部变量
+E:\vs-project\0801.homework.recurrence\0801.homework.recurrence\recurrence.c(73,9): warning C4101: “s”: 未引用的局部变量
+E:\vs-project\0801.homework.recurrence\0801.homework.recurrence\recurrence.c(72,9): warning C4101: “i”: 未引用的局部变量
+E:\vs-project\0801.homework.recurrence\0801.homework.recurrence\recurrence.c(72,6): warning C4101: “x”: 未引用的局部变量
+E:\vs-project\0801.homework.recurrence\0801.homework.recurrence\recurrence.c(14): warning C4716: “print”: 必须返回一个值
+  0801.homework.recurrence.vcxproj -> E:\vs-project\0801.homework.recurrence\Debug\0801.homework.recurrence.exe
