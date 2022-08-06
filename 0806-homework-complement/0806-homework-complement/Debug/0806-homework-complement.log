@@ -1,0 +1,5 @@
+﻿  complement.c
+E:\vs-project\0806-homework-complement\0806-homework-complement\complement.c(6,21): warning C4101: “m”: 未引用的局部变量
+E:\vs-project\0806-homework-complement\0806-homework-complement\complement.c(6,15): warning C4101: “k”: 未引用的局部变量
+E:\vs-project\0806-homework-complement\0806-homework-complement\complement.c(6,12): warning C4101: “t”: 未引用的局部变量
+  0806-homework-complement.vcxproj -> E:\vs-project\0806-homework-complement\Debug\0806-homework-complement.exe
