@@ -1,0 +1,4 @@
+﻿  Struct.c
+E:\vs-project\0814-homework-struct\0814-homework-struct\Struct.c(31,14): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\vs-project\0814-homework-struct\0814-homework-struct\Struct.c(33,17): warning C4047: “=”:“int”与“int *”的间接级别不同
+  0814-homework-struct.vcxproj -> E:\vs-project\0814-homework-struct\Debug\0814-homework-struct.exe
